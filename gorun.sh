@@ -1,0 +1,2 @@
+./gobuild.sh
+./bin/main
