@@ -1,1 +1,1 @@
-# bittrick
+# BitTrick
